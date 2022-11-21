@@ -2,20 +2,19 @@
 
 ## 백윤서  
 ### Front-End Developer (Web)
+
+#### **Email** : gye04056@naver.com   
+#### **Blog** : https://velog.io/@bgyoons
+#### [Notion 포트폴리오](https://bgyoons.notion.site/dd862ebdaea54baba42f837317279134)
 <br>
 
-#### **Email**  
-*gye04056@naver.com*   
-#### **Blog**   
-*https://velog.io/@bgyoons*
-#### [*Notion 포트폴리오*](https://bgyoons.notion.site/dd862ebdaea54baba42f837317279134)
-<br>
-
-> <br>사용자 경험을 중요시 여기고, UX 개선에 많은 고민을 합니다.
+> 사용자 경험을 중요시 여기고, UX 개선에 많은 고민을 합니다.
 >
 >코드 재사용성에 관심이 많습니다.
 >
->성장을 지향합니다. <br><br>
+>논리적인 코드를 작성하려고 노력합니다.
+>
+>성장을 지향합니다.
 
 <br>
 
@@ -30,25 +29,23 @@
   
 5. [학력](#학력)  
 
-<br><br>
+<br>
 
 # **경력**
 | 기간 | 회사 명 | 내용     |
 |:----|:---------|:--------|
-| 2022.06 ~ 재직중 | <img src="./image/Aimed.png"><br>**(주)에임드**<br>*구) 게임베리* | <br>**서비스 개발팀 소속** <br>반려동물 산책앱(피리부는 강아지) 프론트엔드 개발자<br><br>**[프로젝트]**<br>피리부는 강아지 앱 내부에 외주사가 운영해오던 피리마켓과 피리마켓 어드민 페이지 개발<br>**피리마켓** : 외주사가 작업한 Vue 소스를 리액트로 변경 작업<br>**STACK** : `React`, `JavaScript`, `Axios`, `Recoil`, `styled-components`<br>**피리마켓 어드민** : 기존 메타커머스 어드민 페이지를 자체 어드민 페이지로 내제화 진행<br>**STACK** : `React`, `JavaScript`, `React-Query`, `Recoil`, `styled-components`<br><br> | 
-|
+| 2022.06 ~ 재직중 | <img src="./image/Aimed.png"><br>**(주)에임드**<br>*구) 게임베리* | <br>**서비스 개발팀 소속** <br>반려동물 산책앱(피리부는 강아지) 프론트엔드 개발자<br><br>**[프로젝트]**<br>피리부는 강아지 앱 내부에 외주사가 운영해오던 피리마켓과 피리마켓 어드민 페이지 개발<br><br>**피리마켓** : 외주사가 작업한 Vue 소스를 리액트로 변경 작업<br>**STACK** : `React`, `JavaScript`, `Axios`, `Recoil`, `styled-components`<br><br>**피리마켓 어드민** : 기존 메타커머스 어드민 페이지를 자체 어드민 페이지로 내제화 진행<br>**STACK** : `React`, `JavaScript`, `React-Query`, `Recoil`, `styled-components`<br><br> | 
 
-<br><br>
+<br>
 
 # **활동**
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
 | 2021.05 ~ 2022.08 | 성신여대 자체 커뮤니티 개발팀<br>Salty Lab | 성신여대 동문들이 소통할 수 있는 커뮤니티를 만들기 위한 개발팀 <br> **활동 프로젝트** : [수정광산](#수정광산) |
-| 2021.08 ~ 2022.01 | 코드스테이츠<br>Software Engineering Bootcamp 34기  | Javascript 기반 풀스택 과정 이수 <br> **활동 프로젝트** : [CampBu](#CampBu),  [CutCard](#CutCard) |
+| 2021.08 ~ 2022.01 | 코드스테이츠<br>Software Engineering Bootcamp 34기  | Javascript 기반 풀스택 과정 이수 <br> **활동 프로젝트** : [CampBu](#campbu),  [CutCard](#cutcard) |
 | 2021.03 ~ 2021.10 | 멋쟁이 사자처럼 9기 | 개발동아리 회원으로 활동 <br> 매주 교육 세션 진행 및 학생들끼리 자체 스터디 진행 |
-|
 
-<br><br>
+<br>
 
 # **프로젝트 요약**
 
@@ -58,7 +55,7 @@
 | 2021.12 ~ 2022.01 | **[CampBu](#campbu)**  <br> *코드스테이츠 <br> Final Project* | **PART** : Web Front-End (기여도 50%) <br> **LIST** : UI 커스텀 컴포넌트(모달), 상품 검색, 상품 목록 카테고라이징, 찜하기, 마이페이지, 메시지함 내 예약 및 대여 관리 <br> **STACK** : `React`, `TypeScript`, `Recoil`, `Emotion.js` |
 | 2021.12 ~ 2021.12 (2주) | **[CutCard](#cutcard)**  <br> *코드스테이츠 <br> Toy Project* | **PART** : Web Front-End (기여도 50%) <br> **LIST** : 회원가입, 로그인, 마이페이지 <br> **STACK** : `React`, `JavaScript`, `styled-components` |
 
-<br><br>
+<br>
 
 # **프로젝트 상세**
 ## 수정광산
@@ -89,10 +86,7 @@
 - JavaScript와 React를 알면 Android와 iOS를 동시에 개발할 수 있는 장점이 있다. 
 - 컴포넌트에 무한스크롤이나 새로고침을 위한 props를 제공해주어 편리하게 개발할 수 있다.
 
-<br>
-
 ---
-<br>
 
 ## CampBu
 
@@ -135,10 +129,7 @@
 - Emotion jsx에서 제공해주는 css 속성을 활용하면 이를 클래스로 변환해준다.
 - css props를 결합하여 복잡한 스타일링을 적용하거나 css 변수를 조립하여 컴포넌트 스타일링을 적용할 수 있다.
 
-<br>
-
 ---
-<br>
 
 ## CutCard
 
@@ -171,8 +162,8 @@
 - Github Issues를 사용하면서 효율적으로 업무 분담을 할 수 있게 되었다.
 - Git Workflow에 대해 이해를 하였다.
 
-<br><br>
+<br>
 
 # **학력**
 
-#### 2017.03 ~ 2022.02 성신여자대학교 수학과(주전공) / 서비스디자인공학과(부전공)
+2017.03 ~ 2022.02 성신여자대학교 수학과(주전공) / 서비스디자인공학과(부전공)
